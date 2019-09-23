@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "socket-server"
+		},
+		{
+			"path": "angular8-socket-client"
+		}
+	],
+	"settings": {}
+}
