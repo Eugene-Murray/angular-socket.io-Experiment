@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "angular8-socket-client"
+		},
+		{
+			"path": "nest-socket-server"
 		}
 	],
 	"settings": {}
