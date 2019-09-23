@@ -73,3 +73,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](LICENSE).
+
+
+  ----------------------
+Kafka;
+
+  https://thatcoder.space/getting-started-with-kafka-and-node-js-with-example/
+
+  https://www.npmjs.com/package/kafkajs
+
+  https://www.npmjs.com/package/kafka-node
